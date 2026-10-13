@@ -1,0 +1,7 @@
+Enter number of vertices: 5
+Vertex 1 (x y): 20 30
+Vertex 2 (x y): 50 60
+Vertex 3 (x y): 30 70
+Vertex 4 (x y): 20 60
+Vertex 5 (x y): 10 30
+Enter seed point (x y): 25 50
